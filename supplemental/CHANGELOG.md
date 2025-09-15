@@ -1,5 +1,13 @@
 ## 0.12.8
 
+- Add setting for time format (12h / 24h). (#424)
+
+- Add experimental one-time password (OTP) support.
+
+- Add `TRUSTED_AUTH_HEADER` environment variable for authentication forwarding. (#399)
+
+- Add `AUTO_LOGIN` environment variable for automatic login. (#399)
+
 - Add FreeBSD support for agent install script and update command.
 
 ## 0.12.7
